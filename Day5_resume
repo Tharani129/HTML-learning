@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <h1>Tharani Potnuru</h1>
+        </header>
+    <body>
+        <section>
+        <nav>
+        <a href="#Professional Experience">Experience</a>
+        <a href="#Education">Education</a>
+        <a href="#Key Skills">Skills</a>
+        <a href="#Personal Information">Personal Information</a>
+        </nav>
+        </section>
+        <main>
+        <section id="Education">
+            <header>
+                <h3> Education </h3>
+            </header>
+            <p> <b>Bachelor of Computer Science</b> </p>
+            <p> Dr Lankapalli Bullaya College of Engineering</p>
+            <p> <b>Diploma in Computer Management Engineering</b> </p>
+            <p> Sankethika Polytechnic College</p>
+            <aside id="Personal Information"> 
+                <h3>Personal Information</h3>
+                <h4>Hobbies</h4>
+                <ul>
+                    <li>Sewing</li>
+                    <li>Playing Batminton</li>
+                    <li>Creating content</li>
+                </ul>
+            </aside>
+        </section>
+        <section id="Professional Experience"> 
+            <h3>Professional Experience</h3>
+            <h4> Job Title </h4>
+            <p>Software Engineer (React JS & JavaScript) </p>
+            <h4>Experience</h4>
+            <p>2.6 years</p>
+            <h4>Company</h4>
+            <p>L&T Technology Services</p>
+            <h4>Job Description:</h4>
+            <p>As a Software Engineer at LTTS, I design, develop, and maintain scalable software applications using React JS and JavaScript. My primary responsibilities include:</p>
+            <ul>
+                <li>Developing high-quality, responsive, and interactive user interfaces using React JS and JavaScript</li>
+                <li>Collaborating with cross-functional teams to identify and prioritize project requirements</li>
+                <li>Writing clean, maintainable, and efficient code that adheres to industry standards</li>
+                <li>Troubleshooting and resolving issues related to React JS and JavaScript applications</li>
+                <li>Participating in code reviews and contributing to the improvement of the overall codebase</li>
+                <li>Staying up-to-date with the latest trends and best practices in React JS, JavaScript, and front-end development</li>
+            </ul>
+        </section>
+        <section id="Key Skills">
+            <header>
+                <h3> Key Skills </h3>
+            </header>
+            <ul>
+                <li>React JS</li>
+                <li>JavaScript (ES6+)</li>
+                <li>HTML5</li>
+                <li>CSS3</li>
+                <li>Front-end development</li>
+                <li>Responsive web design</li>
+                <li>Debugging and troubleshooting</li>
+                <li>Code review and optimization</li>
+            </ul>
+        </section>
+        <section id="Technical Proficiencies">
+            <header>
+                <h3> Technical Proficiencies: </h3>
+            </header>
+            <ul>
+                <li>Proficient in React JS and its ecosystem (e.g., React Router, Redux)</li>
+                <li>Strong understanding of JavaScript fundamentals and advanced concepts</li>
+                <li>Experience with modern front-end build tools (e.g., Webpack, Babel)</li>
+                <li>Familiarity with CSS preprocessors (e.g., Sass, Less)</li>
+            </ul>
+        </section>
+        </main>
+        <footer>
+            <h4>Contact Information</h4>
+            <p>Phone no:1224673787</p>
+            <a href="mailto:lovely123@gamail.com">lovely123@gamail.com</a>
+        </footer>
+        </body>       
+</html>
